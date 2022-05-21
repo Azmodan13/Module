@@ -42,7 +42,7 @@
     padding: 25px 41px;
     background: #34547a;
     text-decoration: none;
-    display: inline-block
+    display: inline-flex;
 }
 
 .header {
